@@ -1,6 +1,6 @@
 # IMDB Clone
 
-This is a simple IMDB Clone built using React. It allows users to search for movies, view their details, and get information such as the movie's title, year, director, actors, genre, and more. The app fetches data from the OMDB API to retrieve movie information.
+This is a simple IMDB Clone built using React. It allows users to search for movies, view and get information such as the movie's title, year, director, actors, genre, and more. The app fetches data from the OMDB API to retrieve movie information.
 
 ## Features
 
